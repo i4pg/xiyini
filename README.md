@@ -1,3 +1,6 @@
+![Trophy](https://github-profile-trophy.vercel.app/?username=xiyini&theme=dracula)
+
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?&theme=dracula)
 ![Visits Badge](https://badges.pufler.dev/visits/xiyini/xiyini)
