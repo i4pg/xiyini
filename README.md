@@ -16,6 +16,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiyini&show_icons=true&theme=dracula&border_radius=20&custom_title=Stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xiyini&repo=elzero&show_owner=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiyini&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
