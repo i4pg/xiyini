@@ -19,6 +19,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#66](https://github.com/turbio/bracey.vim/issues/66) in [turbio/bracey.vim](https://github.com/turbio/bracey.vim)
+2. ❗️ Opened issue [#66](https://github.com/turbio/bracey.vim/issues/66) in [turbio/bracey.vim](https://github.com/turbio/bracey.vim)
+3. 🗣 Commented on [#371](https://github.com/LukeSmithxyz/LARBS/issues/371) in [LukeSmithxyz/LARBS](https://github.com/LukeSmithxyz/LARBS)
 <!--END_SECTION:activity-->
 
 
