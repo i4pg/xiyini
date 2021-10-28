@@ -1,3 +1,5 @@
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 ![Visits Badge](https://badges.pufler.dev/visits/xiyini/xiyini)
 ![Years Badge](https://badges.pufler.dev/years/xiyini)
 ![Repos Badge](https://badges.pufler.dev/repos/xiyini)
