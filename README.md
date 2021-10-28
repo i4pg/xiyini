@@ -1,6 +1,10 @@
 ![Trophy](https://github-profile-trophy.vercel.app/?username=xiyini&theme=dracula)
-
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![cpp](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?&theme=dracula)
 ![Visits Badge](https://badges.pufler.dev/visits/xiyini/xiyini)
